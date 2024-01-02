@@ -1,1 +1,1 @@
-# webpack_course
+# Practical course of webpack by UlbiTV
